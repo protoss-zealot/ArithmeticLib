@@ -12,7 +12,7 @@
 
 extern int BMSearch(char *src,char *pattern);
 
-extern int KMPSearch(char *src,char *pattern);
+extern int KMPMatch(char *src,char *pattern);
 
 
 
