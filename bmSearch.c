@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "strsearch.h"
+#include "Arithmetic.h"
 
 #ifdef _cplusplus
 extern "C"{
@@ -75,6 +75,7 @@ int BMSearch(char *dest_str,char *pattern)
 	return N;
 }
 
+/* A simple test 
 int main()
 {
 	char dest_buf[1024];
@@ -90,6 +91,7 @@ int main()
 	printf("return val: %d\n",res);
 	return 0;
 }
+*/
 
 #ifdef _cplusplus
 }
