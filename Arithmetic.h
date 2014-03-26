@@ -14,6 +14,7 @@ extern int BMSearch(char *src,char *pattern);
 
 extern int KMPMatch(char *src,char *pattern);
 
+extern void heapSort(int *a,int arr_size);
 
 
 
