@@ -19,5 +19,7 @@ Including:
 
 5.Quick sort.
 
+6.Count sort.
+
 
 
