@@ -18,6 +18,6 @@ extern void HeapSort(int *a,int arr_size);
 
 extern void quicksort(int a[],int left,int right);
 
-
+extern void countSort(int src[],int dest[],int temp[],int length,int num);
 
 #endif
